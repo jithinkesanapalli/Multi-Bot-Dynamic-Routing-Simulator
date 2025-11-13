@@ -14,7 +14,7 @@
 
 using namespace std;
 
-// colors for show output in terminal
+// colours for show output in terminal
 #define RESET   "\033[0m"
 #define RED     "\033[31m"
 #define GREEN   "\033[32m"
