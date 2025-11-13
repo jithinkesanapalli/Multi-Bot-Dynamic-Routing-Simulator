@@ -114,7 +114,7 @@ vector<vector<int>> makeGraph(const vector<pair<int, int>>& temp_obstacles) {
     }
     return adj;
 }
-
+//jithin
 // dijkstra algo find shortest steps
 vector<pair<int,int>> dijkstra(int sr, int sc, int gr, int gc, const vector<pair<int, int>>& temp_obstacles) {
     if (sr < 0 || sr >= ROWS || sc < 0 || sc >= COLS) return {};
